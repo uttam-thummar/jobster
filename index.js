@@ -43,7 +43,7 @@ app.use(ErrorHandlerMiddleware);
 
 
 
-const PORT = process.env.PORT || 5100;
+const PORT = process.env.PORT || 5500;
 
 const start = async () => {
     try {
